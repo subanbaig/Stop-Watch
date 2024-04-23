@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/2622992.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 9%;
+}
+.head h1{
+    color: rgb(238, 229, 229);
+    display: flex;
+    margin-left: 8%;
+    font-size: 60px;
+    font-family:cursive;
+    transition-duration: 2000ms;
+}
+.head h1:hover{
+    color:rgb(233, 88, 88);
+}
+.bd h1{
+    text-align: center;
+    display: inline-block;
+    margin: px;
+    margin-top: 150px;
+    color: rgb(0, 0, 0);
+    width: 66px;
+    border: 1px solid rgb(16, 0, 0);
+    border-left: 0;
+    border-right: 0;
+}
+button{
+    font-size:medium;
+    border: 1PX solid rgb(193, 102, 102);
+    display: inline-block;
+    color: rgb(218, 86, 86);
+    padding: 10px;
+    margin: 30px;
+    width: 90px;
+    transition-duration: 1300ms;
+    border-radius: 250px;
+}
+button:hover{
+    background-color:rgb(233, 88, 88);
+    color: white;
+}
